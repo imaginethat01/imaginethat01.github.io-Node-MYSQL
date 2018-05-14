@@ -1,0 +1,57 @@
+
+
+create database bamazon_db;
+ 
+
+use bamazon_db;
+CREATE TABLE products
+(
+
+
+item_id int NOT NULL AUTO_INCREMENT, 
+
+product_name VARCHAR(30),
+
+department_name VARCHAR(30),
+
+price int,
+stock_quanity int,
+
+PRIMARY KEY (item_id) 
+
+
+
+);
+
+
+
+
+
+INSERT INTO products (item_id, product_name, department_name, price, stock_quanity)
+
+VALUES ('Super Star', 'Power-Ups', 25, 10),
+	  
+	('Red-Toadstool', 'Health', 10, 20), 
+		
+	('Magic Wand', 'Weapons', 20, 50),
+		
+	('Turtle Shell', 'Weapons', 5, 100),
+       
+	('Heart Container', 'Health', 20, 30),
+     
+	('Ray Gun', 'Weapons', 30, 25),
+ 
+        ('Barrel of Fun', 'Misc', 100, 12),
+  
+       ('Spam', 'Power-Ups', 1, 200),
+   
+       ('Pokeball', 'Misc', 20, 30),
+   
+       ('Bunny Ears', 'Power-Ups', 1, 1),
+    
+       ('Steamed Kale', 'Health', 3, 100),
+    
+       ('Fairy in a Bottle', 'Misc', 40, 50);
+       
+        
+SELECT * FROM products;
