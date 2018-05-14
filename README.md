@@ -27,7 +27,7 @@ If you order a product which is out of stock, you will see the following CLI mes
 <img src="projectphotos/oos.jpg">
 <br>
 
-<h1>SO! - What does this "SQL" thing do anyways?" 
+<h1>SO! - What does this "SQL" thing do anyways?"</h1> 
 
 Well... SQL allows us to make a database which is a fancy way of saying - "this is our stuff put into rows and columns" 
 Sort of like Excel... but SQL is much more cool. Because it allows you to store and alter persistant data-sets with very little
