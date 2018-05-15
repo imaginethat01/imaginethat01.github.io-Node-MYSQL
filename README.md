@@ -5,27 +5,27 @@
 SQL server, in this case is hosted on localhost:3333
 
 
-We run the script bamazonCustomer.js to start the application. 
+ - We run the script bamazonCustomer.js to start the application. 
 
-A list of items which have their properties laid out in a SQL database / table is returned to the user. 
+- A list of items which have their properties laid out in a SQL database / table is returned to the user. 
 
 <img src="projectphotos/firstscreen.jpg"> 
 
 
-Then, pick a product! - 
+- Then, pick a product! - 
 
 <img src="projectphotos/secondscreen.jpg">
 <br>
 
-The CLI prompt will then update. Showing you the total, and asking to confirm the order.
+- The CLI prompt will then update. Showing you the total, and asking to confirm the order.
 
 <img src="projectphotos/thirdscreen.jpg">
 
-Once you have confirmed your order, hitting Y for "yes" will send the order through.
+- Once you have confirmed your order, hitting Y for "yes" will send the order through.
 
 <img src="projectphotos/finalscreen.jpg">
 
-If you order a product which is out of stock, you will see the following CLI message.
+- If you order a product which is out of stock, you will see the following CLI message.
 
 <img src="projectphotos/oos.jpg">
 <br>
