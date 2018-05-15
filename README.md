@@ -33,6 +33,13 @@ SQL server, in this case is hosted on localhost:3333
 <img src="projectphotos/oos.jpg">
 <br>
 
+<h3>"It all sounds kind of complicated..."</h3>
+
+It is! - but it doesn't have to be. Most of our functionality with actually sending a command and editing the database is in the code below: 
+
+<img src="projectphotos/codeex.jpg">
+
+
 <h1>SO! - What does this "SQL" thing do anyways?</h1> 
 
 Well... SQL allows us to make a database which is a fancy way of saying - "this is our stuff put into rows and columns" 
