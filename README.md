@@ -46,10 +46,12 @@ Below is a picture of our "un-altered" SQL workspace. Our database.
 Kind of cool right? 
 
 After our command line is sent through our Node.JS CLI APP - If the table is refreshed, we can see the changes inside of SQL Workbench.
-Remember, we bought 2 counts of "Fairy in a bottle" - If you look at the bottom of the SQL table now, its values have changed. 
-<br>
+- Remember, we bought 2 counts of "Fairy in a bottle" - If you look at the bottom of the SQL table now, its values have changed. 
+
+
+
 <img src="projectphotos/sqlconfirm.jpg">
-<br>
+
 
 
 These changes happen instantly. and are stored forever. Kind of nifty. This is how most inventory programs will handle the bulk of what they do. A SQL table can be easily altered or modified on a supervisory level, and then others can work with the information. Such is the basis for many modern inventory programs. 
