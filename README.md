@@ -2,6 +2,7 @@
 
 <h1>This is a simple app (Bamazon!) - using Node.JS and MYSQL</h1>
 <br>
+SQL database, in this case is located on localhost:3333
 
 We run the script bamazonCustomer.js to start the application. 
 A list of items which have their properties laid out in a SQL database / table is returned to the user. 
@@ -32,7 +33,7 @@ If you order a product which is out of stock, you will see the following CLI mes
 Well... SQL allows us to make a database which is a fancy way of saying - "this is our stuff put into rows and columns" 
 Sort of like Excel... but SQL is much more cool. Because it allows you to store and alter persistant data-sets with very little
 "hands on" exposure - lots of people working on one spreadsheet is messy. SQL allows us to decide how the information is stored, and how
-it is interacted with!
+it is interacted with! - Perhaps the most important aspect of using SQL is that it can very easily be built into a ground-up or existing application. The language is compatible inside of many frameworks, in our case we are using Node.JS - The SQL database and Node.JS APP are completely different applications. The table is hosted on localhost:3333 
 
 Below is a picture of our "un-altered" SQL workspace. Our database.
 
