@@ -33,7 +33,7 @@ SQL server, in this case is hosted on localhost:3333
 <img src="projectphotos/oos.jpg">
 <br>
 
-<h3>"It all sounds kind of complicated..."</h3>
+<h3>"phew! but... it all sounds kind of complicated..."</h3>
 
 It is! - but it doesn't have to be. Most of our functionality with actually sending a command and editing the database is in the code below: 
 
