@@ -2,9 +2,10 @@
 
 <h1>This is a simple app (Bamazon!) - using Node.JS and MYSQL</h1>
 <br>
-SQL database, in this case is located on localhost:3333
+SQL database, in this case is hosted on localhost:3333
 
 We run the script bamazonCustomer.js to start the application. 
+
 A list of items which have their properties laid out in a SQL database / table is returned to the user. 
 
 <img src="projectphotos/firstscreen.jpg"> 
