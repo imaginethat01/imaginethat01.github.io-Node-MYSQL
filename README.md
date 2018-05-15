@@ -34,7 +34,7 @@ Sort of like Excel... but SQL is much more cool. Because it allows you to store 
 "hands on" exposure - lots of people working on one spreadsheet is messy. SQL allows us to decide how the information is stored, and how
 it is interacted with!
 
-Below is a picture of our "un-altered SQL workspace. Our database"
+Below is a picture of our "un-altered" SQL workspace. Our database.
 
 <img src="projectphotos/sqlscreen.jpg">
 
