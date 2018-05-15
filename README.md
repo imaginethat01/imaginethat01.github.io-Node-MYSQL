@@ -13,12 +13,12 @@ SQL server, in this case is hosted on localhost:3333
 <img src="projectphotos/firstscreen.jpg"> 
 
 
-- Then, pick a product! - 
+- Choose your quantity. Let's pick up 2 of these...
 
 <img src="projectphotos/secondscreen.jpg">
 <br>
 
-- Choose your quantity. Let's pick up 2 of these...
+
 
 - The CLI prompt will then update. Showing you the total, and asking to confirm the order.
 
