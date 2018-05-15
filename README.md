@@ -8,6 +8,7 @@ SQL server, in this case is hosted on localhost:3333
  - We run the script bamazonCustomer.js to start the application. 
 
 - A list of items which have their properties laid out in a SQL database / table is returned to the user. 
+  The user is able to select a product from the list using the up and down keys and then pressing enter on the selected item.
 
 <img src="projectphotos/firstscreen.jpg"> 
 
@@ -16,6 +17,8 @@ SQL server, in this case is hosted on localhost:3333
 
 <img src="projectphotos/secondscreen.jpg">
 <br>
+
+- Choose your quantity. Let's pick up 2 of these...
 
 - The CLI prompt will then update. Showing you the total, and asking to confirm the order.
 
